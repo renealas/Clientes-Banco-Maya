@@ -15,7 +15,7 @@
           
         <jaxws:endpoint 
           id="tarjetaDigitalService" 
-          implementor="com.bancomaya.clientes.TarjetaDigitalServiceImpl" 
+          implementor="com.bancomaya.clientes.service.TarjetaDigitalServiceImpl" 
           address="/TarjetaDigital" />
           
 </beans>
